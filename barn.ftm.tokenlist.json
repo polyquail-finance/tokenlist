@@ -1,0 +1,21 @@
+{
+  "name": "BarnSale Fantom Default",
+  "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
+  "keywords": ["fantom", "ftm", "defi", "barn", "barnsale"],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 250,
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "decimals": 18,
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+    }
+  ],
+  "timestamp": "2022-04-05T00:00:00+00:00"
+}
