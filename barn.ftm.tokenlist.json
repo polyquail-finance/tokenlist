@@ -22,7 +22,7 @@
       "decimals": 18,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
     },
     {
       "chainId": 250,
@@ -30,7 +30,7 @@
       "decimals": 6,
       "name": "Tether USD",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png"
     },
     {
       "chainId": 250,
@@ -38,7 +38,7 @@
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
     },
     {
       "chainId": 250,
@@ -46,7 +46,7 @@
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
     },
     {
       "chainId": 250,
@@ -54,7 +54,7 @@
       "decimals": 8,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
     },
     {
       "chainId": 250,
@@ -62,7 +62,7 @@
       "decimals": 18,
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/ftm/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png"
     }
   ],
   "timestamp": "2022-04-05T00:00:00+00:00"
