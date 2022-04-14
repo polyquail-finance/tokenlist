@@ -1,6 +1,6 @@
 {
   "name": "Barn Matic Tokens",
-  "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
   "keywords": ["polygon", "matic", "defi", "barn", "barnsale"],
   "version": {
     "major": 0,
@@ -14,7 +14,7 @@
       "decimals": 18,
       "name": "Barnsale Token",
       "symbol": "BARN",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x078FdC7AaBb982ACd98F6160c07262f35D3f307C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x078FdC7AaBb982ACd98F6160c07262f35D3f307C/logo.png"
     },
     {
       "chainId": 137,
@@ -22,7 +22,7 @@
       "decimals": 18,
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
     },
     {
       "chainId": 137,
@@ -30,7 +30,7 @@
       "decimals": 18,
       "name": "Quail Chick",
       "symbol": "CHK",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x6116A2A8Ea71890Cf749823Ee9DEC991930a9eEa/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x6116A2A8Ea71890Cf749823Ee9DEC991930a9eEa/logo.png"
     },
     {
       "chainId": 137,
@@ -38,7 +38,7 @@
       "decimals": 18,
       "name": "Quail Egg",
       "symbol": "KEGG",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x4f219CfC1681c745D9558fd64d98373A21a246CA/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x4f219CfC1681c745D9558fd64d98373A21a246CA/logo.png"
     },
     {
       "chainId": 137,
@@ -46,7 +46,7 @@
       "decimals": 18,
       "name": "KWIL Token",
       "symbol": "KWIL",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x252656AdC9E22C697Ce6c08cA9065FBEe5E394e7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x252656AdC9E22C697Ce6c08cA9065FBEe5E394e7/logo.png"
     },
 
     {
@@ -55,7 +55,7 @@
       "decimals": 18,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
     },
     {
       "chainId": 137,
@@ -63,7 +63,7 @@
       "decimals": 6,
       "name": "Tether USD",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     },
     {
       "chainId": 137,
@@ -71,7 +71,7 @@
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
     },
     {
       "chainId": 137,
@@ -79,7 +79,7 @@
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
     },
     {
       "chainId": 137,
@@ -87,7 +87,7 @@
       "decimals": 8,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
     },
     {
       "chainId": 137,
@@ -95,7 +95,7 @@
       "decimals": 18,
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/polygon/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/polyquail-finance/tokenlist/main/logos/matic/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
     }
   ],
   "timestamp": "2022-04-05T00:00:00+00:00"
